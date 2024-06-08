@@ -1,4 +1,4 @@
-This program prints Factorial of a Number in Java
+//This program prints Factorial of a Number in Java
 
 public class Factorial {
     public static void main(String args[])
